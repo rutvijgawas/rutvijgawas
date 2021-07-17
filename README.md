@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rutvijgawas
 -I'm Software Developer.
--With a Bachelor’s degree in Computer Science,and hands-on experience using core php, laravel, angular , ionic , flutter , codgnitor to create and implement software applications.
+-With a Bachelor’s degree in Computer Science,and hands-on experience using core php, laravel, angular , ionic , flutter , codignitor to create and implement software applications.
 -
